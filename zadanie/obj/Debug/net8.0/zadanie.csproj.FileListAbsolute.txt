@@ -1,0 +1,15 @@
+/Users/mrhumidum/Documents/Projects/labs/zadanie/bin/Debug/net8.0/zadanie
+/Users/mrhumidum/Documents/Projects/labs/zadanie/bin/Debug/net8.0/zadanie.deps.json
+/Users/mrhumidum/Documents/Projects/labs/zadanie/bin/Debug/net8.0/zadanie.runtimeconfig.json
+/Users/mrhumidum/Documents/Projects/labs/zadanie/bin/Debug/net8.0/zadanie.dll
+/Users/mrhumidum/Documents/Projects/labs/zadanie/bin/Debug/net8.0/zadanie.pdb
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/zadanie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/zadanie.AssemblyInfoInputs.cache
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/zadanie.AssemblyInfo.cs
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/zadanie.csproj.CoreCompileInputs.cache
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/zadanie.sourcelink.json
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/zadanie.dll
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/refint/zadanie.dll
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/zadanie.pdb
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/zadanie.genruntimeconfig.cache
+/Users/mrhumidum/Documents/Projects/labs/zadanie/obj/Debug/net8.0/ref/zadanie.dll
